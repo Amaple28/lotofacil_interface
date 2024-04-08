@@ -28,11 +28,7 @@ O programa foi desenvolvido para simular um sistema de lotofácil com três moda
 
 > Aqui está uma demonstração do programa em execução:
 
-<!-- [demo_interface_grafica_lotofacil.mp4](https://github.com/Amaple28/lotofacil_interface/blame/main/demo_interface_grafica_lotofacil.mp4) -->
-<video width="320" height="240" controls>
-  <source src="https://github.com/Amaple28/lotofacil_interface/blob/main/demo_interface_grafica_lotofacil.mp4" type="video/mp4"> 
-</video>
-
+[demo_interface_grafica_lotofacil.mp4](https://youtu.be/b4AgCrXL3oA) 
 
 <p align="right"><a href="#readme">🔝 Voltar ao topo</a></p>
 
