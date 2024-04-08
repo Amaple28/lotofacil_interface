@@ -186,7 +186,7 @@ public class lotofacil extends JFrame {
             if (numeroAposta % 2 == 0) {
                 jLabelResultado.setText("Parabéns, Você ganhou R$ 100,00 reais! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ");
             } else {
-                jLabelResultado.setText("O número digitado é ímpar e a premiação foi para números pares. (｡•́︿•̀｡) ");
+                jLabelResultado.setText("Que pena! A premiação foi para números pares. (｡•́︿•̀｡) ");
             }
     
             painel.add(jLabelResultado); 
