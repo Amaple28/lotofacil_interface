@@ -28,7 +28,11 @@ O programa foi desenvolvido para simular um sistema de lotofácil com três moda
 
 > Aqui está uma demonstração do programa em execução:
 
-[demo_interface_grafica_lotofacil.mp4](https://youtu.be/b4AgCrXL3oA) 
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/b4AgCrXL3oA" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
+
 
 <p align="right"><a href="#readme">🔝 Voltar ao topo</a></p>
 
