@@ -28,7 +28,7 @@ O programa foi desenvolvido para simular um sistema de lotofácil com três moda
 
 > Aqui está uma demonstração do programa em execução (clique na imagem para assistir ao vídeo no YouTube):
 
-[![Assista à demonstração](https://img.youtube.com/vi/b4AgCrXL3oA/0.jpg)](https://youtu.be/b4AgCrXL3oA_target="_blank") 
+[![Assista à demonstração](https://img.youtube.com/vi/b4AgCrXL3oA/0.jpg)](https://youtu.be/b4AgCrXL3oA) 
 
 <p align="right"><a href="#readme">🔝 Voltar ao topo</a></p>
 
