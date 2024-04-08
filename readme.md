@@ -4,10 +4,10 @@ Este é um programa simples em Java que simula um sistema de lotofácil com trê
 ##  Sumário
 
 - [Sobre o Projeto](#sobre-o-projeto)
+- [Demo](#demo)
 - [Habilidades](#habilidades)
 - [Como executar o programa](#como-executar-o-programa)
 - [Requisitos do sistema](#requisitos-do-sistema)
-- [Demo](#demo)
 - [Status de Desenvolvimento](#status-de-desenvolvimento)
 - [Autor](#autor)
 
@@ -21,6 +21,16 @@ O programa foi desenvolvido para simular um sistema de lotofácil com três moda
 2. **Apostar de A a Z**: Nesta opção, o usuário deve apostar em uma letra do alfabeto entre A e Z. Se a letra apostada for a mesma sorteada, o usuário ganha um prêmio de R$ 500,00.
 
 3. **Apostar em PAR ou ÍMPAR**: O usuário insere um número inteiro, e o programa sorteia um número aleatório entre 0 e 100. Se o número sorteado for par e o usuário apostou em PAR, ele ganha um prêmio de R$ 100,00. 
+
+<p align="right"><a href="#readme">🔝 Voltar ao topo</a></p>
+
+## Demo
+
+> Aqui está uma demonstração do programa em execução:
+
+<video width="320" height="240" controls>
+  <source src="src/images/demo_interface_grafica_lotofacil.mp4" type="video/mp4">
+</video>
 
 <p align="right"><a href="#readme">🔝 Voltar ao topo</a></p>
 
@@ -81,14 +91,6 @@ Para compilar e executar este programa, você precisará ter o seguinte instalad
 - **Terminal de linha de comando**: Você precisará de um terminal de linha de comando para compilar e executar o programa. Isso está disponível por padrão na maioria dos sistemas operacionais.
 
 Certifique-se de ter esses requisitos atendidos antes de tentar compilar e executar o programa. Se precisar de ajuda para configurar seu ambiente de desenvolvimento Java, consulte a documentação oficial do JDK ou procure recursos online.
-
-<p align="right"><a href="#readme">🔝 Voltar ao topo</a></p>
-
-## Demo
-
-> Aqui está uma demonstração do programa em execução:
-
-[demo_interface_grafica_lotofacil.mp4](src/images/demo_interface_grafica_lotofacil.mp4)
 
 <p align="right"><a href="#readme">🔝 Voltar ao topo</a></p>
 
